@@ -16,6 +16,7 @@
 // let data = new Child("Audi")
 // console.log( data.name );
 
+
 // 2. Write code to explain prototype chaining
     // const obj = {
     //     num1: 1,
@@ -27,6 +28,7 @@
     //     anotherNum : 24
     // }
     // console.log(obj.anotherNum);
+
 
 // 3.Add a method to calculate sum of all elements in Array in array's protype, use that method to calculate sum for multiple arrays
 // let arr = [1,2,3,4,5,6];
@@ -43,7 +45,8 @@
 // Array.addAll(arr)
 
 
-// Write a JavaScript function to retrieve all the names of object's own and inherited properties.
+//4.  Write a JavaScript function to retrieve all the names of object's own and inherited properties.
+
 // class Customer {
 //     constructor() {
 //         name = "Arun" 
@@ -52,3 +55,6 @@
 // Customer.prototype.newCustomer = "Abhijeet";
 // let data =  Customer.prototype.newCustomer
 // console.log(data);
+
+
+
